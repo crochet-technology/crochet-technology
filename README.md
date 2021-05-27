@@ -1,7 +1,7 @@
-Welcome from Crochet Technologies,
+Welcome from **Crochet Technologies**,
 We are having good experience regarding Developement,Deployment and Automation.
 
-1. DevOps
+1. **DevOps**
 
 Knowledge On Various DevOps Tools And Technologies:
   1. Source Code Management
@@ -11,7 +11,7 @@ Knowledge On Various DevOps Tools And Technologies:
   5. Continuous Monitoring
   6. Containerization
 
-2. AWS(Amazon Web services)
+****2. **AWS(Amazon Web services)******
 
   1. Load Balancing
   2. Amazon CloudFront.
