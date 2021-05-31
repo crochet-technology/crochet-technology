@@ -27,7 +27,7 @@ Knowledge On Various DevOps Tools And Technologies:
 5. NodeJs
 6. ReactJs
 7. AngularJs
-8. Php
+8. PHP
 9. Laravel
-10. Majento
+10. Magento
 11. Wordpress
